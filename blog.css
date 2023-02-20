@@ -1,0 +1,33 @@
+body{
+
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+
+}
+
+.navbar{
+    height: 60px;
+    width: 100%;
+    background-color: aqua;
+}
+
+.hero{
+
+height: 200px;
+width: 100%;
+background-image: url(../../IMG_4791.JPG);
+
+
+}
+
+.home{
+    margin-right: 250px;
+}
+
+.address{
+    margin-right: 250px;
+}
+
+.contact{
+    margin-right: 250px;
+}

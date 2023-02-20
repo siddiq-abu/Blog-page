@@ -1,0 +1,54 @@
+/* div{
+    background-color: teal;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+
+.one{
+    position: relative;
+    left: 50%;
+}
+
+.red{
+    background-color: red;
+    position: relative;
+
+}
+
+.three{
+    position: relative;
+    left: 50%;
+}
+
+.blue{
+    background-color: blue;
+    position: relative;
+    left: 50%;
+} */
+
+
+/* /////////////////////////////////// */
+
+div{
+    background-color: aliceblue;
+    height: 200px;
+    width: 250px;
+    border: 1px solid black;
+}
+
+.mother{
+    background-color: red;
+    position: relative;
+}
+
+.child{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    background-color: blue;
+    top: 74%;
+    left: 80%;
+
+}
